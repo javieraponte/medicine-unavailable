@@ -31,3 +31,9 @@ En este proyecto analizaremos los medicamentos no disponibles, este conjunto de 
 | Codigo diagnostico | Texto |
 
 ## Limpieza y formato de datos
+
+En la limpieza de los datos hubo problemas en definir correctamente el formato fecha de la primera celda, la solución que me funciono fue eliminar datos innecesarios mediante la herramienta reemplazar y luego darle el formato correcto con la herramienta de texto en columnas.
+
+![image](https://github.com/user-attachments/assets/62df0001-580d-4d2c-b3c7-4a1270d68689)
+![image](https://github.com/user-attachments/assets/bebe9e25-ba99-4689-bedc-5889cacf6a68)
+
