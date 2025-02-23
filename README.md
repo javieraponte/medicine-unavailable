@@ -39,9 +39,9 @@ En la limpieza de los datos hubo problemas en definir correctamente el formato f
 
 ## Preguntas problema
 
-•	¿Cuántas solicitudes son para un solo paciente vs múltiples pacientes?
-•	¿Qué diagnosticados están más afectados por la falta de disponibilidad de medicamentos?
-•	¿Cuáles son los medicamentos más críticos según la cantidad solicitada?
-•	¿Qué formas farmacéuticas tienen mayor demanda?
-•	De los primeros tres medicamentos más críticos según su forma farmacéutica, ¿Cómo varia la cantidad solicitada del medicamento con mayor demanda?
+- ¿Cuántas solicitudes son para un solo paciente vs múltiples pacientes?
+- ¿Qué diagnosticados están más afectados por la falta de disponibilidad de medicamentos?
+- ¿Cuáles son los medicamentos más críticos según la cantidad solicitada?
+- ¿Qué formas farmacéuticas tienen mayor demanda?
+- De los primeros tres medicamentos más críticos según su forma farmacéutica, ¿Cómo varia la cantidad solicitada del medicamento con mayor demanda?
 
