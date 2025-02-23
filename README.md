@@ -37,3 +37,11 @@ En la limpieza de los datos hubo problemas en definir correctamente el formato f
 ![image](https://github.com/user-attachments/assets/62df0001-580d-4d2c-b3c7-4a1270d68689)
 ![image](https://github.com/user-attachments/assets/bebe9e25-ba99-4689-bedc-5889cacf6a68)
 
+## Preguntas problema
+
+•	¿Cuántas solicitudes son para un solo paciente vs múltiples pacientes?
+•	¿Qué diagnosticados están más afectados por la falta de disponibilidad de medicamentos?
+•	¿Cuáles son los medicamentos más críticos según la cantidad solicitada?
+•	¿Qué formas farmacéuticas tienen mayor demanda?
+•	De los primeros tres medicamentos más críticos según su forma farmacéutica, ¿Cómo varia la cantidad solicitada del medicamento con mayor demanda?
+
