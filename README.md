@@ -10,4 +10,23 @@ En este proyecto analizaremos los medicamentos no disponibles, este conjunto de 
 - [Analisis](#analisis)
 
 ## Diccionario de datos
-![image](https://github.com/user-attachments/assets/4d5af8df-a839-4b17-afb9-5a74d6d0a729)
+
+| Nombre columna | Tipo de dato |
+| --- | --- |
+| Fecha de autorización | Marca de tiempo |
+| Tipo solicitud | Texto |
+| Solicitante/Importador | Texto |
+| IUM| Texto |
+| Principio activo 1 | Texto |
+| Concentración 1 | Texto |
+| Unidad medida 1 | Texto |
+| Principio activo 2 | Texto |
+| Concentración 2 | Texto |
+| Unidad medida 2 | Texto |
+| Forma farmaceutica | Texto |
+| Nombre comercial | Texto |
+| Cantidad solicitada | Número |
+| Presentación comercial | Texto |
+| Diagnostico | Texto |
+| Codigo diagnostico | Texto |
+
