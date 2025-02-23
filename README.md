@@ -30,3 +30,4 @@ En este proyecto analizaremos los medicamentos no disponibles, este conjunto de 
 | Diagnostico | Texto |
 | Codigo diagnostico | Texto |
 
+## Limpieza y formato de datos
