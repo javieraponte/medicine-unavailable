@@ -9,3 +9,5 @@ En este proyecto analizaremos los medicamentos no disponibles, este conjunto de 
 - [Preguntas problemas](#preguntas-problemas)
 - [Analisis](#analisis)
 
+## Diccionario de datos
+![image](https://github.com/user-attachments/assets/4d5af8df-a839-4b17-afb9-5a74d6d0a729)
