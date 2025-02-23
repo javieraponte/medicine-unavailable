@@ -82,6 +82,6 @@ En la limpieza de los datos hubo problemas en definir correctamente el formato f
 
 - De los primeros tres medicamentos más críticos según su forma farmacéutica, ¿Cómo varia la cantidad solicitada del medicamento con mayor demanda?
 
-
+![image](https://github.com/user-attachments/assets/aff0e7d9-1381-41f6-9755-df6d10e62c67)
 
 > El medicamento con mayor demanda según la suma de solicitudes y la forma farmacéutica más demandada es el Tolvaptan – Tolvaheal TAB, lo cual se presenta su desviación estándar en el grafico anterior.
