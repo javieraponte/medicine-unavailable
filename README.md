@@ -1,2 +1,3 @@
 # Analisis de medicamentos no disponibles con Excel
-Este repositorio contiene mi proyecto en desarrollo en análisis de datos, inicialmente con Excel - Power Bi, luego con SQL - Tableau y Python. En este análisis realizo tareas como limpieza, manipulación y visualización de datos.
+
+En este proyecto analizaremos los medicamentos no disponibles, este conjunto de datos se encuentra en la página de Datos Abiertos https://www.datos.gov.co/d/sdmr-tfmf. Se trata en una deficiencia de medicamentos indispensables para diferentes enfermedades o patologías como la leucemia mieloide aguda, acondroplasia y diferentes tipos de tumores, que, por condiciones en su comercialización, hay muy pocas o nulas existencias de estos medicamentos.
