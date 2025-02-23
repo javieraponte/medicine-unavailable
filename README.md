@@ -6,8 +6,8 @@ En este proyecto analizaremos los medicamentos no disponibles, este conjunto de 
 
 - [Diccionario de datos](#diccionario-de-datos)
 - [Limpieza y formato de datos](#limpieza-y-formato-de-datos)
-- [Preguntas problema](#preguntas-problemas)
-- [Análisis](#analisis)
+- [Preguntas problema](#preguntas-problema)
+- [Análisis](#análisis)
 
 ## Diccionario de datos
 
