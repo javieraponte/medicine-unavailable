@@ -73,7 +73,7 @@ En la limpieza de los datos hubo problemas en definir correctamente el formato f
 
 - ¿Qué formas farmacéuticas tienen mayor demanda?
 
-![image](https://github.com/user-attachments/assets/01818c15-e87b-4cce-bf00-4e53925df7be)
+![image](https://github.com/user-attachments/assets/7d183469-fb71-4bea-ab36-e2e2b3da9ce3)
 
 > Dentro del top 10 de las formas farmacéuticas las tres primeras que tienen mayor demanda son:
 >   1.	Solución inyectable con 2.509 solicitudes
@@ -82,6 +82,6 @@ En la limpieza de los datos hubo problemas en definir correctamente el formato f
 
 - De los primeros tres medicamentos más críticos según su forma farmacéutica, ¿Cómo varia la cantidad solicitada del medicamento con mayor demanda?
 
-![image](https://github.com/user-attachments/assets/aff0e7d9-1381-41f6-9755-df6d10e62c67)
+![image](https://github.com/user-attachments/assets/f9c371b6-cec7-4cb0-a790-338971c3283a)
 
 > El medicamento con mayor demanda según la suma de solicitudes y la forma farmacéutica más demandada es el Tolvaptan – Tolvaheal TAB, lo cual se presenta su desviación estándar en el grafico anterior.
