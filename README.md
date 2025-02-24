@@ -73,7 +73,7 @@ En la limpieza de los datos hubo problemas en definir correctamente el formato f
 
 - ¿Qué formas farmacéuticas tienen mayor demanda?
 
-![image](https://github.com/user-attachments/assets/d7a75cca-69e7-4ae1-88c5-87f418275675)
+![image](https://github.com/user-attachments/assets/01818c15-e87b-4cce-bf00-4e53925df7be)
 
 > Dentro del top 10 de las formas farmacéuticas las tres primeras que tienen mayor demanda son:
 >   1.	Solución inyectable con 2.509 solicitudes
